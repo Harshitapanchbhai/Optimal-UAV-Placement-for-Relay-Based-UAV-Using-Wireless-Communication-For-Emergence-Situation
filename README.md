@@ -1,4 +1,4 @@
-# Optimal UAV Placement and Communication
+# Optimal UAV Placement and Communication For Emergency Sitution
 
 This repo contains the code for the project Optimal UAV Placement and Communication. MATLAB version used: `R2020b`.
 
